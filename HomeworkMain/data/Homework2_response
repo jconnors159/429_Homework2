@@ -1,0 +1,20 @@
+Data management: Create analysis-friendly data.
+
+I would say that creating analysis-friendly data consists of making sure that the data is cleaned up and organized in a way that could be usable to many who choose to use the data in their own projects. Data wrangling is key.
+
+Software: Give functions and variables meaningful names.
+
+It is important to always name functions and variable meaningful names because it makes the code easier to interpret and understand. This is especially useful for those who did not create the file who need to use it, or when coming back to the file at a later date. 
+
+Collaboration: Create an overview of your project.
+
+An overview is important for any project. It breaks down the key aspects of what the goal of the project is, the main points of the project overall, and the expected outcomes that can be referred to at a later date. The information in the overview is supposed to be straight to the point and easily accessible. 
+
+Project organization: Name all files to reflect their content or function.
+
+Filenames are important because it represents what the content is. This is especially important when projects start ramping up and it is necessary to keep multiple files in the same folder, or maybe newer versions of the same projects.
+
+Keeping track of changes: Back up (almost) everything created by a human being as soon as it is created.
+
+Backing up everything is crucial because you never know when a file can go corrupt or accidentally deleted. It also doesn’t take long for a file to crash sometimes either. Saving after every change is important.
+
